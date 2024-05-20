@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## О проекте
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+- Проект написан на Laravel 10;
+- Используемые библиотеки и приложения: PHP v8.3.6; WampServer 3.3.5; Composer 2.7.6;
+- Разработан метод api «Регистрация нового юзера» api/registration с параметрами email, password, gender;
+- Разработан api метод «api/profile» для выдачи данных пользователя.
+
+##
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
