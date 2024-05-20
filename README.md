@@ -9,7 +9,7 @@
 
 ## О проекте
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Проект подготовлен и выполнен специально для JeLeApps, на вакансию PHP-разработчик, Laravel по ТЗ:
 
 - Проект написан на Laravel 10;
 - Используемые библиотеки и приложения: PHP v8.3.6; WampServer 3.3.5; Composer 2.7.6;
